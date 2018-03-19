@@ -20,11 +20,6 @@ import javax.swing.event.*;
  *    public void carsUpdated(CarUpdateEvent ev)
  *    public void stateChanged(ChangeEvent ev)
  *
- * COLLABORATORS:
- *    CarDetailComponents
- *
- * @version 1.0, 16 Oct 2004
- * @author Adam Black
  */
 public class ShowAllCarsPanel extends JPanel implements ActionListener, ChangeListener
 {
